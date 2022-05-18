@@ -16,4 +16,4 @@ I use these background parameters:
 | :---: | :---: | :---: | :---: | :---: |
 | 0.25 | 1 | 1 | 0 | 1 |
 
-Additionally, you can install the original font: [`Source Code Pro SemiBold`](https://fonts.google.com/share?selection.family=Source%20Code%20Pro:wght@600)
+Additionally, you can install the original font: [Source Code Pro SemiBold](https://fonts.google.com/share?selection.family=Source%20Code%20Pro:wght@600)
