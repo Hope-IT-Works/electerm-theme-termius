@@ -1,3 +1,4 @@
+![electerm-theme-termius](https://socialify.git.ci/Hope-IT-Works/electerm-theme-termius/image?description=1&name=1&owner=1&pattern=Solid&theme=Light)
 # electerm-theme-termius
 theme for [electerm](https://github.com/electerm/electerm) in [Termius](https://termius.com/) style
 
